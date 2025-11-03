@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Tele-clone Messenger",
+  "description": "A web-based messenger application inspired by Telegram, allowing users to chat, call, search for users, and edit their profiles. It also features file sharing capabilities and AI-powered suggestions.",
+  "requestFramePermissions": []
+}
